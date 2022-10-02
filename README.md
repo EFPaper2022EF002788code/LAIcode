@@ -22,8 +22,8 @@ This code was utilized to depict trend slope of LAI before and after BP/TP for d
 Output: the picture about trend slope of LAI before and after BP/TP for different PFT.
 
 5. slop_hist_frequency.py
-This code was utilized to depict probability density distribution of T_opt^eco  ,〖 T〗_air^afterCPand 〖 T〗_air^(max,gs) in python 3.6 (Fig. S10 (b)).
-Output: the picture about probability density distribution of T_opt^eco  ,〖 T〗_air^afterCPand 〖 T〗_air^(max,gs)
+This code was utilized to depict probability density distribution of T_opt^eco, T_air^afterCP and T_air^(max,gs) in python 3.6 (Fig. S10 (b)).
+Output: the picture about probability density distribution of T_opt^eco, T_air^afterCP and _air^(max,gs)
 
 Reference
 Chen, B. et al. Changes in vegetation photosynthetic activity trends across the Asia–Pacific region over the last three decades. Remote Sens. Environ. 144, 28–41 (2014).
